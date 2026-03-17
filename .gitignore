@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+dist/
+build/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+tmp/
+
+requirements-full.txt
+requirements-llm.txt
+requirements-stt.txt
+requirements-tts.txt
+requirements-vad-lite.txt
+requirements-vad.txt
+
+Claude.md
