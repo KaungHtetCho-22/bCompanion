@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+websockets
+openai
+elevenlabs
+azure-cognitiveservices-speech
+silero-vad
+torch

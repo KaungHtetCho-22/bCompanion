@@ -1,0 +1,6 @@
+VAD_CONFIG = {
+    "threshold": 0.5,
+    "min_silence_ms": 300,
+    "speech_pad_ms": 100,
+}
+
